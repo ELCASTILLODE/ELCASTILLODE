@@ -87,7 +87,7 @@
             <li><a href="#">Twitter</a></li>
             <li><a href="#">Instagram</a></li>
         </ul>
-        <p>O enviarme un correo a: <a href="mailto:contacto@elcastillodeninos.com">contacto@elcastillodeninos.com</a></p>
+        <p>O enviarme un correo a: <a href="mailto:elcastillodeninos@gmail.com">elcastillodeninos.com</a></p>
     </section>
     <footer>
         <p>&copy; 2024 El Castillo de Niños. Todos los derechos reservados.</p>
