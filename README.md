@@ -61,7 +61,7 @@
     </header>
     <section class="biography">
         <h2 class="section-title">Sobre Mí</h2>
-        <p>Soy profesora de primaria con una pasión por el mundo infantil. He publicado varios libros de colorear y solapas de letras en Amazon KDP, con el objetivo de educar y entretener a los niños.</p>
+        <p>Estoy apasionado por el mundo infantil. He publicado varios libros de colorear y solapas de letras en Amazon KDP, con el objetivo de educar y entretener a los niños.</p>
     </section>
     <section class="projects">
         <h2 class="section-title">Proyectos</h2>
@@ -77,7 +77,6 @@
             <li>Creación de contenido educativo</li>
             <li>Diseño de libros de colorear</li>
             <li>Desarrollo de material didáctico</li>
-            <li>Enseñanza a nivel primaria</li>
         </ul>
     </section>
     <section class="contact">
